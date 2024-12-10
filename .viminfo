@@ -10,13 +10,16 @@
 
 # hlsearch on (H) or off (h):
 ~H
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
 :wq
-|2,0,1733805848,,"wq"
+|2,0,1733808366,,"wq"
+:q
+|2,0,1733808284,,"q"
 :Wq
 |2,0,1733453784,,"Wq"
-:q
-|2,0,1710355551,,"q"
 :set nowrap
 |2,0,1710355508,,"set nowrap"
 :qa!
@@ -27,6 +30,10 @@
 |2,0,1695421110,,"w"
 
 # Search String History (newest to oldest):
+??\a
+|2,1,1733808303,63,"\\a"
+? @$
+|2,1,1733808303,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -35,10 +42,7 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	LINE	0
-	
-|3,0,0,1,1,0,1733504324,""
-""1	LINE	0
+""0	LINE	0
 	1. Make sure miniconda is installed and the requirements.txt to run some of the models is also there. 
 	
 	272
@@ -54,7 +58,27 @@
 	4. Unfortunately, there is not much logging if any at all, but there are print statements to guide you. 
 	
 	Good luck with your project!
-|3,1,1,1,13,0,1733505086,"1. Make sure miniconda is installed and the requirements.txt to run some of the models is also there. ","","2. Everything should be located in the Projects directory. Most of the files there are parts to construct and run experiments on Llama. A good representation of what the overall product looks like is link_pred_mistral.py which runs Mistral on the link prediction task. ",>340
+|3,1,0,1,13,0,1733808303,"1. Make sure miniconda is installed and the requirements.txt to run some of the models is also there. ","","2. Everything should be located in the Projects directory. Most of the files there are parts to construct and run experiments on Llama. A good representation of what the overall product looks like is link_pred_mistral.py which runs Mistral on the link prediction task. ",>340
+|<"NOTE: link_pred_mistral.py uses huggingface to pipe the model through its transformers library. The llama setup is more complicated since we requested the model via Meta and downloaded it (or the many versions of it) on the server. Don't get confused; it's essentially the same idea of loading a model but in two slightly different ways. ","",>164
+|<"2.a If you are eager to download the llama models, there is another README.txt in this tree of directories with a very detailed way of how you would go about it. ","","3. The original dataset is in /parklab/data. The parsed dataset can also be found there, but it is easier to navigate in /argument_relation/data. You will find train, validation and test sets there. ",>143
+|<"NOTE: They were randomly generated using the original dataset, so make sure you keep the test set as it is when you practice with the model. ","","4. Unfortunately, there is not much logging if any at all, but there are print statements to guide you. ","","Good luck with your project!"
+"1	LINE	0
+	1. Make sure miniconda is installed and the requirements.txt to run some of the models is also there. 
+	
+	272
+<2. Everything should be located in the Projects directory. Most of the files there are parts to construct and run experiments on Llama. A good representation of what the overall product looks like is link_pred_mistral.py which runs Mistral on the link prediction task. 
+	341
+<NOTE: link_pred_mistral.py uses huggingface to pipe the model through its transformers library. The llama setup is more complicated since we requested the model via Meta and downloaded it (or the many versions of it) on the server. Don't get confused; it's essentially the same idea of loading a model but in two slightly different ways. 
+	
+	2.a If you are eager to download the llama models, there is another README.txt in this tree of directories with a very detailed way of how you would go about it. 
+	
+	3. The original dataset is in /parklab/data. The parsed dataset can also be found there, but it is easier to navigate in /argument_relation/data. You will find train, validation and test sets there. 
+	NOTE: They were randomly generated using the original dataset, so make sure you keep the test set as it is when you practice with the model. 
+	
+	4. Unfortunately, there is not much logging if any at all, but there are print statements to guide you. 
+	
+	Good luck with your project!
+|3,0,1,1,13,0,1733505086,"1. Make sure miniconda is installed and the requirements.txt to run some of the models is also there. ","","2. Everything should be located in the Projects directory. Most of the files there are parts to construct and run experiments on Llama. A good representation of what the overall product looks like is link_pred_mistral.py which runs Mistral on the link prediction task. ",>340
 |<"NOTE: link_pred_mistral.py uses huggingface to pipe the model through its transformers library. The llama setup is more complicated since we requested the model via Meta and downloaded it (or the many versions of it) on the server. Don't get confused; it's essentially the same idea of loading a model but in two slightly different ways. ","",>164
 |<"2.a If you are eager to download the llama models, there is another README.txt in this tree of directories with a very detailed way of how you would go about it. ","","3. The original dataset is in /parklab/data. The parsed dataset can also be found there, but it is easier to navigate in /argument_relation/data. You will find train, validation and test sets there. ",>143
 |<"NOTE: They were randomly generated using the original dataset, so make sure you keep the test set as it is when you practice with the model. ","","4. Unfortunately, there is not much logging if any at all, but there are print statements to guide you. ","","Good luck with your project!"
@@ -91,36 +115,104 @@
 |3,0,7,1,1,0,1695421311,"import matplotlib.pyplot as plt"
 
 # File marks:
-'0  3  18  ~/.gitignore
-|4,48,3,18,1733805848,"~/.gitignore"
-'1  3  0  ~/.gitignore
-|4,49,3,0,1733805524,"~/.gitignore"
-'2  1  0  ~/.gitignore
-|4,50,1,0,1733805329,"~/.gitignore"
-'3  1  0  ~/.gitignore
-|4,51,1,0,1733805329,"~/.gitignore"
-'4  1  0  ~/.gitignore
-|4,52,1,0,1733805329,"~/.gitignore"
-'5  1  0  ~/.gitignore
-|4,53,1,0,1733805329,"~/.gitignore"
-'6  33  0  ~/README.txt
-|4,54,33,0,1733505800,"~/README.txt"
-'7  3  0  ~/README.txt
-|4,55,3,0,1733505112,"~/README.txt"
-'8  3  0  ~/README.txt
-|4,56,3,0,1733505112,"~/README.txt"
-'9  1  0  ~/README.txt
-|4,57,1,0,1733504897,"~/README.txt"
+'0  4  14  ~/.gitignore
+|4,48,4,14,1733808366,"~/.gitignore"
+'1  8  0  /
+|4,49,8,0,1733808308,"/"
+'2  8  0  ~/
+|4,50,8,0,1733808284,"~/"
+'3  8  0  ~/
+|4,51,8,0,1733808284,"~/"
+'4  3  18  ~/.gitignore
+|4,52,3,18,1733805848,"~/.gitignore"
+'5  3  18  ~/.gitignore
+|4,53,3,18,1733805848,"~/.gitignore"
+'6  3  0  ~/.gitignore
+|4,54,3,0,1733805524,"~/.gitignore"
+'7  3  0  ~/.gitignore
+|4,55,3,0,1733805524,"~/.gitignore"
+'8  1  0  ~/.gitignore
+|4,56,1,0,1733805329,"~/.gitignore"
+'9  1  0  ~/.gitignore
+|4,57,1,0,1733805329,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  4  14  ~/.gitignore
+|4,39,4,14,1733808366,"~/.gitignore"
+-'  3  18  ~/.gitignore
+|4,39,3,18,1733808346,"~/.gitignore"
+-'  8  0  /
+|4,39,8,0,1733808308,"/"
+-'  8  0  /
+|4,39,8,0,1733808308,"/"
+-'  31  0  /
+|4,39,31,0,1733808303,"/"
+-'  1  0  /
+|4,39,1,0,1733808303,"/"
+-'  31  0  /
+|4,39,31,0,1733808303,"/"
+-'  1  0  /
+|4,39,1,0,1733808303,"/"
+-'  8  0  /home
+|4,39,8,0,1733808297,"/home"
+-'  8  0  /home
+|4,39,8,0,1733808297,"/home"
+-'  8  0  ~/
+|4,39,8,0,1733808296,"~/"
+-'  8  0  ~/
+|4,39,8,0,1733808296,"~/"
+-'  8  0  ~/.git
+|4,39,8,0,1733808293,"~/.git"
+-'  8  0  ~/.git
+|4,39,8,0,1733808293,"~/.git"
+-'  8  0  ~/
+|4,39,8,0,1733808284,"~/"
+-'  8  0  ~/
+|4,39,8,0,1733808284,"~/"
+-'  8  0  ~/.git
+|4,39,8,0,1733808278,"~/.git"
+-'  8  0  ~/.git
+|4,39,8,0,1733808278,"~/.git"
 -'  3  18  ~/.gitignore
 |4,39,3,18,1733805848,"~/.gitignore"
+-'  3  18  ~/.gitignore
+|4,39,3,18,1733805848,"~/.gitignore"
+-'  3  18  ~/.gitignore
+|4,39,3,18,1733805848,"~/.gitignore"
+-'  3  18  ~/.gitignore
+|4,39,3,18,1733805848,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1733805524,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1733805524,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1733805524,"~/.gitignore"
 -'  3  0  ~/.gitignore
 |4,39,3,0,1733805524,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1733805521,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1733805521,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1733805521,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1733805521,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1733805521,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1733805521,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1733805521,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1733805521,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1733805521,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1733805329,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1733805329,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1733805329,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1733805329,"~/.gitignore"
 -'  33  0  ~/README.txt
@@ -139,6 +231,98 @@
 |4,39,33,0,1733505800,"~/README.txt"
 -'  33  0  ~/README.txt
 |4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
+-'  33  0  ~/README.txt
+|4,39,33,0,1733505800,"~/README.txt"
 -'  3  0  ~/README.txt
 |4,39,3,0,1733505617,"~/README.txt"
 -'  3  0  ~/README.txt
@@ -153,176 +337,17 @@
 |4,39,3,0,1733505617,"~/README.txt"
 -'  3  0  ~/README.txt
 |4,39,3,0,1733505617,"~/README.txt"
--'  3  0  ~/README.txt
-|4,39,3,0,1733505617,"~/README.txt"
--'  3  0  ~/README.txt
-|4,39,3,0,1733505112,"~/README.txt"
--'  3  0  ~/README.txt
-|4,39,3,0,1733505112,"~/README.txt"
--'  3  0  ~/README.txt
-|4,39,3,0,1733505112,"~/README.txt"
--'  3  0  ~/README.txt
-|4,39,3,0,1733505112,"~/README.txt"
--'  3  0  ~/README.txt
-|4,39,3,0,1733505112,"~/README.txt"
--'  3  0  ~/README.txt
-|4,39,3,0,1733505112,"~/README.txt"
--'  3  0  ~/README.txt
-|4,39,3,0,1733505112,"~/README.txt"
--'  3  0  ~/README.txt
-|4,39,3,0,1733505112,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733505083,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  7  0  ~/README.txt
-|4,39,7,0,1733504897,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  13  27  ~/README.txt
-|4,39,13,27,1733504813,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  11  27  ~/README.txt
-|4,39,11,27,1733504802,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733504317,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733504317,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733504317,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733504317,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733504317,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733504317,"~/README.txt"
--'  1  0  ~/README.txt
-|4,39,1,0,1733504317,"~/README.txt"
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1733805844	0
-	"	3	18
-	^	3	19
-	.	3	18
+	*	1733808365	0
+	"	4	14
+	^	4	15
+	.	4	15
 	+	2	11
-	+	3	18
+	+	3	19
+	+	4	15
 
 > ~/README.txt
 	*	1733505795	0

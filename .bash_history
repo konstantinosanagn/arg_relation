@@ -1,168 +1,3 @@
-ls
-cd
-ls
-cd Projects/
-ls
-cd link-prediction/
-cd
-ls
-cd Projects/
-ls
-cd link-prediction/
-ls
-torchrun --nproc_per_node 2 new_main.py --path_to_cfg ./contextual_exp_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-ls
-cd
-ls
-cd Projects/
-cd link-prediction/
-ls
-torchrun --nproc_per_node 2 main.py --path_to_cfg ./exp_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-torchrun --nproc_per_node 2 main.py --path_to_cfg ./expirement_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-torchrun --nproc_per_node 2 main.py --path_to_cfg ./experiment_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-torchrun --nproc_per_node 2 new_main.py --path_to_cfg ./contextual_exp_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-cd
-cd Projects/
-cd link-prediction/
-ls
-torchrun --nproc_per_node 2 new_main.py --path_to_cfg ./contextual_exp_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-cd
-cd ..
-ls
-cd ..
-cd link-prediction/
-torchrun --nproc_per_node 2 new_main.py --path_to_cfg ./contextual_exp_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-cd
-cd ..
-ls
-cd parklab/
-ls
-cd data
-ls
-cd
-ls
-cd Projects/
-cd link-prediction/
-ls
-cd
-cd Projects/
-ls
-cd link-prediction/
-ls
-torchrun --nproc_per_node 2 main.py --path_to_cfg ./experiment_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-cd
-cd Projects/
-cd link-prediction/
-ls
-torchrun --nproc_per_node 2 new_main.py --path_to_cfg ./contextual_exp_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-torchrun --nproc_per_node 2 main.py --path_to_cfg ./experiment_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-torchrun --nproc_per_node 2 new_main.py --path_to_cfg ./contextual_exp_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-torchrun --nproc_per_node 2 main.py --path_to_cfg ./experiment_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-torchrun --nproc_per_node 2 new_main.py --path_to_cfg ./contextual_exp_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-torchrun --nproc_per_node 2 main.py --path_to_cfg ./experiment_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-torchrun --nproc_per_node 2 new_main.py --path_to_cfg ./contextual_exp_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-torchrun --nproc_per_node 2 main.py --path_to_cfg ./experiment_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-torchrun --nproc_per_node 2 new_main.py --path_to_cfg ./contextual_exp_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-cd
-cd Projects/
-cd link-prediction/
-torchrun --nproc_per_node 2 new_main.py --path_to_cfg ./contextual_exp_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-cd P
-cd
-cd Projects/
-cd link-prediction/
-torchrun --nproc_per_node 2 new_main.py --path_to_cfg ./contextual_exp_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-cd
-cd Projects/
-cd link-prediction/
-torchrun --nproc_per_node 2 new_main.py --path_to_cfg ./contextual_exp_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-cd
-cd ..
-cd
-cd ..
-ls
-cd ka9vt/
-cd ..
-ls
-cd parklab/
-ls
-cd models
-ls
-cd llama2
-ls
-du -h
-cd ..
-du -h
-ls
-cd ..
-du -h
-ls
-cd
-ls
-cd Projects/
-ls
-cd vicuna
-ls
-touch main.py
-code .
-cd
-cd Projects/
-cd link-prediction/
-cd
-cd Projects/
-cd vicuna/
-ls
-rm main.py 
-ls
-python load_mistral.py 
-nvidia-smi  # List GPU processes
-python load_mistral.py 
-cd
-ls
- cd Projects/
-ls
-cd link-prediction/
-ls
-cd llama/
-ls
-cd llama
-ls
-torchrun --nproc_per_node 2 new_main.py --path_to_cfg ./contextual_exp_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-cd
-ls
-cd Projects/
-ls
-cd link-prediction/
-ls
-torchrun --nproc_per_node 2 main.py --path_to_cfg ./experiment_config.json --ckpt_dir /home/parklab/models/llama2/llama-2-13b-chat/ --tokenizer_path /home/parklab/models/llama2/tokenizer.model
-cd
-ls
-cd l
-cd Projects/
-cd link-prediction/
-ls
-cd
-cd ..
-;s
-ls
-cd parklab/
-ls
-cd models/
-du -h
-cd
-ls
-cd Projects/
-ls
-cd vicuna/
-ls
-pip install transformers
-cd
-clear
-ls
-cd Projects/
-ls
-cd vicuna/
-ls
 python load_mistral.py 
 ls
 cd
@@ -998,3 +833,168 @@ git status
 git add .
 ls
 exit
+ls
+cd miniconda3/
+ls
+cd ..
+ls
+git ls-files
+git ls
+git ls-files
+git status
+clear
+ls
+cd Projects/
+ls
+cd link-prediction/
+ls
+cd ..
+ls
+ls -alF
+cd ..
+ls
+clear
+ls -alF
+cd .git/
+ls
+cd ..
+ls
+clear
+ls
+vim .gitignore
+ls
+cd Projects/
+ls
+cd reclor/
+ls
+cd ..
+ls
+cd vicuna/
+ls
+cd ..
+ls
+cd newsqa/
+ls
+clear
+ls
+cd ..
+ls
+cd link-prediction/
+ls
+cd llama/
+pwd
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd miniconda3/
+ls
+pwd
+cd ..
+ls
+cd nltk_data/
+ls
+cd tokenizers/
+ls
+cd punkt/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+clear
+ls -alF
+vim .gitignore 
+clear
+ls
+ls -alF
+clear
+git add .
+git status
+find . -type f -exec du -h {} + | sort -rh | head -n 10
+ls
+vim .gitignore
+git rm --cached -r .cache/huggingface
+git add .
+clear
+ls
+clear
+find . -type f -exec du -h {} + | sort -rh | head -n 10
+rm -rf .git/objects/pack/tmp_pack_pNJd0Q
+rm -rf .git/objects/pack/tmp_pack_m2aCcV
+find . -type f -exec du -h {} + | sort -rh | head -n 10
+git add .
+git rm --cached Projects/link-prediction
+git rm -f --cached Projects/link-prediction
+ls
+git status
+d ..
+git reset
+clear
+ls
+cd ..
+lsc
+ls
+cd ka9vt/ls
+cd ka9vt
+clear
+ls
+ls -alF
+git remote add origin git@github.com:konstantinosanagn/arg_relation.git
+git add .
+git commit -m "Initial commit"
+clear
+ls
+git status
+cd Projects/link-prediction
+git status
+git add .
+git commit -m "Commit changes in the submodule"
+cd ../..
+git add Projects/link-prediction
+git commit -m "Update submodule to the latest commit"
+git push -u origin main
+git remote add origin https://github.com/konstantinosanagn/arg_relation.git
+git remote -v
+git remote remove origin
+git remote add origin https://github.com/konstantinosanagn/arg_relation.git
+git push -u origin main
+git status
+git pull origin main
+git pull --no-rebase
+git push origin main
+git pull --ff-only
+git branch --set-upstream-to=origin/main
+git pull --ff-only
+git merge --no-ff
+git rebase
+git push origin main --force
+git branch
+git push origin master --force
+git remote -v
+git remote set-url origin https://github.com/konstantinosanagn/arg_relation.git
+git push origin master --force
+clear
+ls
+git status
+git rm README.md
+git add .
+git status
+git commit -m "removed README.md"
+ls
+git branch
+git remote -v
+git push origin master
+pip install git-filter-repo
+pip install --upgrade pip
+clear
+find . -type f -exec du -h {} + | sort -rh | head -n 10
+git ls-tree -r HEAD --long | sort -k 4 -n -r | head -n 10
+clear
+git ls-tree -r HEAD --long | sort -k 4 -n -r | head -n 10
+ls
+vim .git

@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/ka9vt/.git'
+let g:netrw_dirhist_2='/home/ka9vt'
+let g:netrw_dirhist_3='/home/ka9vt/.git'
+let g:netrw_dirhist_4='/home/ka9vt'
+let g:netrw_dirhist_5='/home'
+let g:netrw_dirhist_6='/'
