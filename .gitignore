@@ -2,3 +2,5 @@ Projects/link-prediction/llama/
 miniconda3/
 .cache/huggingface/
 .vscode-server/
+.cache/
+.cache/
