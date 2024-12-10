@@ -1,0 +1,42 @@
+2024-06-26 01:35:43.437 [info] 
+
+
+
+
+2024-06-26 01:35:43.445 [info] Extension host agent started.
+2024-06-26 01:35:43.542 [info] [<unknown>][00190119][ManagementConnection] New connection established.
+2024-06-26 01:35:43.549 [info] [<unknown>][26a99416][ExtensionHostConnection] New connection established.
+2024-06-26 01:35:43.873 [info] [<unknown>][26a99416][ExtensionHostConnection] <261778> Launched Extension Host Process.
+2024-06-26 01:35:52.077 [info] [<unknown>][20422f75][ExtensionHostConnection] New connection established.
+2024-06-26 01:35:52.083 [info] [<unknown>][20422f75][ExtensionHostConnection] <262171> Launched Extension Host Process.
+2024-06-26 01:35:52.083 [info] [<unknown>][a46c6aba][ManagementConnection] New connection established.
+2024-06-26 01:35:59.277 [info] [<unknown>][d37f46c5][ManagementConnection] New connection established.
+2024-06-26 01:35:59.285 [info] [<unknown>][dd4aca26][ExtensionHostConnection] New connection established.
+2024-06-26 01:35:59.290 [info] [<unknown>][dd4aca26][ExtensionHostConnection] <262258> Launched Extension Host Process.
+2024-06-26 01:36:29.661 [info] [<unknown>][c795628b][ExtensionHostConnection] New connection established.
+2024-06-26 01:36:29.661 [info] [<unknown>][f2b2b900][ManagementConnection] New connection established.
+2024-06-26 01:36:29.666 [info] [<unknown>][c795628b][ExtensionHostConnection] <262556> Launched Extension Host Process.
+2024-06-26 01:37:07.601 [info] [<unknown>][e5434f89][ManagementConnection] New connection established.
+2024-06-26 01:37:07.609 [info] [<unknown>][10ffa59e][ExtensionHostConnection] New connection established.
+2024-06-26 01:37:07.615 [info] [<unknown>][10ffa59e][ExtensionHostConnection] <263032> Launched Extension Host Process.
+2024-06-26 01:40:43.446 [info] New EH opened, aborting shutdown
+2024-06-26 01:41:29.823 [info] [<unknown>][dd4aca26][ExtensionHostConnection] <262258> Extension Host Process exited with code: 0, signal: null.
+2024-06-26 01:42:07.723 [info] [<unknown>][c795628b][ExtensionHostConnection] <262556> Extension Host Process exited with code: 0, signal: null.
+2024-06-26 02:33:38.428 [info] [<unknown>][f3f91f3b][ManagementConnection] New connection established.
+2024-06-26 02:33:38.438 [info] [<unknown>][0cd570fb][ExtensionHostConnection] New connection established.
+2024-06-26 02:33:38.442 [info] [<unknown>][0cd570fb][ExtensionHostConnection] <329471> Launched Extension Host Process.
+2024-06-26 02:36:16.021 [info] Getting Manifest... mechatroner.rainbow-csv
+2024-06-26 02:36:16.028 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ka9vt/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/out/vs/server/node/server.main.js:191:6373)
+    at process.emit (node:events:518:28)
+2024-06-26 02:36:16.088 [info] Installing extension: mechatroner.rainbow-csv file:///home/ka9vt/.vscode-server/extensions/extensions.json
+2024-06-26 02:36:16.958 [info] Extension signature verification result for mechatroner.rainbow-csv: Success. Executed: true. Duration: 568ms.
+2024-06-26 02:36:17.085 [info] Extracted extension to file:///home/ka9vt/.vscode-server/extensions/mechatroner.rainbow-csv-3.12.0: mechatroner.rainbow-csv
+2024-06-26 02:36:17.089 [info] Renamed to /home/ka9vt/.vscode-server/extensions/mechatroner.rainbow-csv-3.12.0
+2024-06-26 02:36:17.117 [info] Extension installed successfully: mechatroner.rainbow-csv file:///home/ka9vt/.vscode-server/extensions/extensions.json
+2024-06-26 02:38:38.557 [info] [<unknown>][26a99416][ExtensionHostConnection] <261778> Extension Host Process exited with code: 0, signal: null.
+2024-06-26 07:44:17.432 [info] [<unknown>][0cd570fb][ExtensionHostConnection] <329471> Extension Host Process exited with code: 0, signal: null.
+2024-06-26 07:44:18.308 [info] [<unknown>][10ffa59e][ExtensionHostConnection] <263032> Extension Host Process exited with code: 0, signal: null.
+2024-06-26 07:44:18.332 [info] [<unknown>][20422f75][ExtensionHostConnection] <262171> Extension Host Process exited with code: 0, signal: null.
+2024-06-26 07:44:18.332 [info] Last EH closed, waiting before shutting down
+2024-06-26 07:49:18.334 [info] Last EH closed, shutting down

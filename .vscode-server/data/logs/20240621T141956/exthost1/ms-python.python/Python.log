@@ -1,0 +1,37 @@
+2024-06-21 14:19:59.539 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-06-21 14:19:59.539 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-06-21 14:19:59.539 [info] Experiment 'pythonSurveyNotification' is active
+2024-06-21 14:19:59.539 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-06-21 14:19:59.540 [info] Experiment 'pythonTestAdapter' is active
+2024-06-21 14:19:59.540 [info] Default formatter is set to null for workspace /home/ka9vt/Projects/vicuna
+2024-06-21 14:19:59.540 [info] Python interpreter path: /bin/python3.11
+2024-06-21 14:19:59.766 [info] > pyenv which python
+2024-06-21 14:19:59.766 [info] cwd: .
+2024-06-21 14:20:01.098 [info] Starting Pylance language server.
+2024-06-21 14:38:05.698 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/similarity_newsQA.py
+2024-06-21 14:40:14.110 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/similarity_newsQA.py
+2024-06-21 14:40:55.109 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/similarity_newsQA.py
+2024-06-21 14:41:34.757 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/sentence_similarity.py
+2024-06-21 14:41:35.875 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/sentence_similarity.py
+2024-06-21 14:41:40.858 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/sentence_similarity.py
+2024-06-21 14:41:41.206 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/sentence_similarity.py
+2024-06-21 14:42:16.628 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/relation_detection_for_similarity.py
+2024-06-21 14:42:30.158 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/similarity_newsQA.py
+2024-06-21 14:42:58.697 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/relation_detection_for_similarity.py
+2024-06-21 14:43:42.986 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/data_generators.py
+2024-06-21 14:43:45.068 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/data_generators.py
+2024-06-21 14:43:54.671 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/data_generators.py
+2024-06-21 14:44:04.183 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/data_generators.py
+2024-06-21 14:44:05.849 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/data_generators.py
+2024-06-21 14:44:10.984 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/data_generators.py
+2024-06-21 14:45:01.956 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/relation_detection_for_similarity.py
+2024-06-21 14:45:03.568 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/relation_detection_for_similarity.py
+2024-06-21 14:45:11.865 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/relation_detection_for_similarity.py
+2024-06-21 14:45:41.108 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/relation_detection_for_similarity.py
+2024-06-21 14:45:43.230 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/relation_detection_for_similarity.py
+2024-06-21 14:46:15.410 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/relation_detection_for_similarity.py
+2024-06-21 14:47:07.121 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/relation_detection_for_similarity.py
+2024-06-21 14:47:08.627 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/relation_detection_for_similarity.py
+2024-06-21 14:47:49.167 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/relation_detection_for_similarity.py
+2024-06-21 14:48:25.897 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/data_generators.py
+2024-06-21 14:48:30.232 [info] Discover tests for workspace name: vicuna - uri: /home/ka9vt/Projects/vicuna/data_generators.py

@@ -1,0 +1,10 @@
+2024-07-05 08:58:42.297 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-05 08:58:42.297 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-05 08:58:42.297 [info] Experiment 'pythonSurveyNotification' is active
+2024-07-05 08:58:42.297 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-05 08:58:42.297 [info] Experiment 'pythonTestAdapter' is active
+2024-07-05 08:58:42.297 [info] Default formatter is set to null for workspace /home/ka9vt/Projects/link-prediction
+2024-07-05 08:58:42.297 [info] Python interpreter path: /bin/python3.11
+2024-07-05 08:58:42.754 [info] > pyenv which python
+2024-07-05 08:58:42.755 [info] cwd: .
+2024-07-05 08:58:44.129 [info] Starting Pylance language server.

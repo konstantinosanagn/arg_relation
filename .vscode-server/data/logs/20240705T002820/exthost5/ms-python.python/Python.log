@@ -1,0 +1,64 @@
+2024-07-05 01:28:37.253 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-05 01:28:37.253 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-05 01:28:37.253 [info] Experiment 'pythonSurveyNotification' is active
+2024-07-05 01:28:37.253 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-05 01:28:37.253 [info] Experiment 'pythonTestAdapter' is active
+2024-07-05 01:28:37.320 [info] Default formatter is set to null for workspace /home/ka9vt/Projects
+2024-07-05 01:28:37.337 [info] Python interpreter path: /bin/python3.11
+2024-07-05 01:28:37.473 [info] > pyenv which python
+2024-07-05 01:28:37.473 [info] cwd: .
+2024-07-05 01:28:39.367 [info] Starting Pylance language server.
+2024-07-05 01:28:53.541 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:28:57.607 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:28:58.298 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:29:35.843 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:29:39.562 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:29:41.948 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:31:47.919 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:31:54.459 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:31:56.295 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:42:03.942 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:45:28.162 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:45:28.493 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:49:50.140 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:49:50.575 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:50:07.686 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:51:02.161 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:53:57.236 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:56:22.349 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:56:37.297 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:58:01.343 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:58:04.214 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:58:07.865 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:59:36.683 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:59:51.917 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:59:53.325 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 01:59:56.788 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:00:00.413 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:00:06.232 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:00:09.338 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:00:10.490 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:00:13.185 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:00:16.399 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:00:17.332 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:04:18.738 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:04:32.797 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:04:46.785 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:07:15.884 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:07:19.323 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:07:23.335 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:07:30.508 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:07:40.594 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:09:41.784 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:09:48.693 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:12:59.447 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:15:34.645 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:15:37.468 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:20:44.560 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:20:44.991 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:24:04.638 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:26:29.520 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:26:30.274 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:26:57.671 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:27:01.938 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py
+2024-07-05 02:30:19.682 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/reclor/reclor_default.py

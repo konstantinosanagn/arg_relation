@@ -1,0 +1,30 @@
+2024-06-21 14:20:00.659 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-06-21 14:20:01.086 [info] [Info  - 2:20:01 PM] (2411566) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-06-21 14:20:01.086 [info] [Info  - 2:20:01 PM] (2411566) Server root directory: file:///home/ka9vt/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-21 14:20:01.086 [info] [Info  - 2:20:01 PM] (2411566) Starting service instance "vicuna"
+2024-06-21 14:20:01.102 [info] Auto-Indent enabled
+2024-06-21 14:20:01.111 [info] Auto-Indent enabled
+2024-06-21 14:20:01.112 [info] [Info  - 2:20:01 PM] (2411566) Setting pythonPath for service "vicuna": "/bin/python3.11"
+2024-06-21 14:20:01.112 [info] [Info  - 2:20:01 PM] (2411566) Setting environmentName for service "vicuna": "3.11.5 (global)"
+2024-06-21 14:20:01.135 [info] [Info  - 2:20:01 PM] (2411566) Assuming Python version 3.11.5.final.0
+2024-06-21 14:20:01.192 [info] [Info  - 2:20:01 PM] (2411566) Found 6 source files
+2024-06-21 14:20:01.194 [info] Auto-Indent enabled
+2024-06-21 14:20:01.388 [info] [Info  - 2:20:01 PM] (2411566) Background analysis(1) root directory: file:///home/ka9vt/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-21 14:20:01.390 [info] [Info  - 2:20:01 PM] (2411566) Background analysis(1) started
+2024-06-21 14:20:01.553 [info] [Info  - 2:20:01 PM] (2411566) Indexer background runner(2) root directory: file:///home/ka9vt/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-06-21 14:20:01.553 [info] [Info  - 2:20:01 PM] (2411566) Indexing(2) started
+2024-06-21 14:20:01.845 [info] [Info  - 2:20:01 PM] (2411566) scanned(2) 11 files over 1 exec env
+2024-06-21 14:20:02.040 [info] [Info  - 2:20:02 PM] (2411566) indexed(2) 2 files over 1 exec env
+2024-06-21 14:20:02.054 [info] [Info  - 2:20:02 PM] (2411566) Indexing finished(2).
+2024-06-21 14:38:05.976 [info] [Info  - 2:38:05 PM] (2411566) Found 7 source files
+2024-06-21 14:41:32.129 [info] [Info  - 2:41:32 PM] (2411566) Found 8 source files
+2024-06-21 14:42:16.946 [info] [Info  - 2:42:16 PM] (2411566) Found 9 source files
+2024-06-21 14:42:28.756 [info] [Info  - 2:42:28 PM] (2411566) Starting service instance "<default>"
+2024-06-21 14:42:28.789 [info] Auto-Indent enabled
+2024-06-21 14:42:28.796 [info] [Info  - 2:42:28 PM] (2411566) Setting pythonPath for service "<default>": "/bin/python3.11"
+2024-06-21 14:42:28.796 [info] [Info  - 2:42:28 PM] (2411566) Setting environmentName for service "<default>": "3.11.5 (global)"
+2024-06-21 14:42:28.820 [info] [Info  - 2:42:28 PM] (2411566) Assuming Python version 3.11.5.final.0
+2024-06-21 14:42:28.895 [info] [Info  - 2:42:28 PM] (2411566) No source files found.
+2024-06-21 14:42:29.126 [info] [Info  - 2:42:29 PM] (2411566) Background analysis(3) root directory: file:///home/ka9vt/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-21 14:42:29.129 [info] [Info  - 2:42:29 PM] (2411566) Background analysis(3) started
+2024-06-21 14:43:43.003 [info] [Info  - 2:43:43 PM] (2411566) Found 10 source files

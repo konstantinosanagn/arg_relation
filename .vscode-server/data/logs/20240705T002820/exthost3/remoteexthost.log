@@ -1,0 +1,16 @@
+2024-07-05 00:28:23.199 [info] Extension host with pid 2504418 started
+2024-07-05 00:28:23.210 [info] Lock '/home/ka9vt/.vscode-server/data/User/workspaceStorage/64e1c92ef704dc997207be02e825b460/vscode.lock': Lock acquired.
+2024-07-05 00:28:23.601 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-05 00:28:23.602 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-07-05 00:28:24.602 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-05 00:28:24.740 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-05 00:28:24.740 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-05 00:28:24.895 [info] Eager extensions activated
+2024-07-05 00:28:24.895 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-05 00:28:24.896 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-05 00:33:36.352 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-07-05 00:33:36.352 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-07-05 00:33:36.354 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-07-05 04:28:35.809 [info] Extension host terminating: renderer disconnected for too long (1)
+2024-07-05 04:28:35.810 [info] Lock '/home/ka9vt/.vscode-server/data/User/workspaceStorage/64e1c92ef704dc997207be02e825b460/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-07-05 04:28:35.830 [info] Extension host with pid 2504418 exiting with code 0

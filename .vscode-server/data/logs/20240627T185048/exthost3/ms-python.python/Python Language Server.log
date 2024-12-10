@@ -1,0 +1,20 @@
+2024-06-27 18:51:28.530 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-06-27 18:51:28.921 [info] [Info  - 6:51:28 PM] (742206) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-06-27 18:51:28.925 [info] [Info  - 6:51:28 PM] (742206) Server root directory: file:///home/ka9vt/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-27 18:51:28.926 [info] [Info  - 6:51:28 PM] (742206) Starting service instance "link-prediction"
+2024-06-27 18:51:28.947 [info] Auto-Indent enabled
+2024-06-27 18:51:28.958 [info] Auto-Indent enabled
+2024-06-27 18:51:28.959 [info] [Info  - 6:51:28 PM] (742206) Setting pythonPath for service "link-prediction": "/bin/python3.11"
+2024-06-27 18:51:28.959 [info] [Info  - 6:51:28 PM] (742206) Setting environmentName for service "link-prediction": "3.11.5 (global)"
+2024-06-27 18:51:28.982 [info] [Info  - 6:51:28 PM] (742206) Assuming Python version 3.11.5.final.0
+2024-06-27 18:51:29.044 [info] [Info  - 6:51:29 PM] (742206) Found 22 source files
+2024-06-27 18:51:29.047 [info] Auto-Indent enabled
+2024-06-27 18:51:29.291 [info] [Info  - 6:51:29 PM] (742206) Background analysis(1) root directory: file:///home/ka9vt/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-27 18:51:29.293 [info] [Info  - 6:51:29 PM] (742206) Background analysis(1) started
+2024-06-27 18:51:29.408 [info] [Info  - 6:51:29 PM] (742206) Indexer background runner(2) root directory: file:///home/ka9vt/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-06-27 18:51:29.408 [info] [Info  - 6:51:29 PM] (742206) Indexing(2) started
+2024-06-27 18:51:29.668 [info] [Info  - 6:51:29 PM] (742206) scanned(2) 11 files over 1 exec env
+2024-06-27 18:51:29.871 [info] [Info  - 6:51:29 PM] (742206) indexed(2) 2 files over 1 exec env
+2024-06-27 18:51:29.885 [info] [Info  - 6:51:29 PM] (742206) Indexing finished(2).
+2024-06-27 18:53:50.843 [info] [Info  - 6:53:50 PM] (742206) Found 23 source files
+2024-06-27 19:05:00.197 [info] [Info  - 7:05:00 PM] (742206) Found 23 source files

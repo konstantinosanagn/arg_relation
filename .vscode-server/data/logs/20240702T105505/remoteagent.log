@@ -1,0 +1,16 @@
+2024-07-02 10:55:05.935 [info] 
+
+
+
+
+2024-07-02 10:55:05.943 [info] Extension host agent started.
+2024-07-02 10:55:05.981 [info] [<unknown>][e75fb5a4][ExtensionHostConnection] New connection established.
+2024-07-02 10:55:05.987 [info] [<unknown>][9d0fccb7][ManagementConnection] New connection established.
+2024-07-02 10:55:06.293 [info] [<unknown>][e75fb5a4][ExtensionHostConnection] <1844916> Launched Extension Host Process.
+2024-07-02 11:00:05.944 [info] New EH opened, aborting shutdown
+2024-07-02 15:20:05.189 [info] [<unknown>][e75fb5a4][ExtensionHostConnection] <1844916> Extension Host Process exited with code: 0, signal: null.
+2024-07-02 15:20:05.191 [info] Last EH closed, waiting before shutting down
+2024-07-02 15:20:05.191 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ka9vt/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/server/out/vs/server/node/server.main.js:191:6373)
+    at process.emit (node:events:518:28)
+2024-07-02 15:25:05.193 [info] Last EH closed, shutting down

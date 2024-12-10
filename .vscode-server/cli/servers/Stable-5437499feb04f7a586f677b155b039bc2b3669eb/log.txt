@@ -1,0 +1,24 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-fe3f4a08-8af1-4cdb-98c1-1ee9e28e4d14
+Extension host agent listening on /tmp/code-fe3f4a08-8af1-4cdb-98c1-1ee9e28e4d14
+
+[07:39:21] 
+
+
+
+
+[07:39:21] Extension host agent started.
+[07:39:21] [<unknown>][2e5435fb][ExtensionHostConnection] New connection established.
+[07:39:21] [<unknown>][8a6ac1e8][ManagementConnection] New connection established.
+[07:39:22] [<unknown>][2e5435fb][ExtensionHostConnection] <2562346> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[07:44:21] New EH opened, aborting shutdown
+[08:58:37] [<unknown>][3af9cd1d][ManagementConnection] New connection established.
+[08:58:37] [<unknown>][62f876bc][ExtensionHostConnection] New connection established.
+[08:58:37] [<unknown>][62f876bc][ExtensionHostConnection] <2581720> Launched Extension Host Process.

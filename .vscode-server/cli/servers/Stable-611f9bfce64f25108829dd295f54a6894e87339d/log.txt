@@ -1,0 +1,23 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-5c8c9cfd-e4ce-42b1-9514-dca9c2c7bd6b
+Extension host agent listening on /tmp/code-5c8c9cfd-e4ce-42b1-9514-dca9c2c7bd6b
+
+[01:35:11] 
+
+
+
+
+[01:35:11] Extension host agent started.
+[01:35:11] [<unknown>][5e379e93][ManagementConnection] New connection established.
+[01:35:11] [<unknown>][d4903f35][ExtensionHostConnection] New connection established.
+[01:35:11] [<unknown>][5e379e93][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[01:35:11] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ka9vt/.vscode-server/cli/servers/Stable-611f9bfce64f25108829dd295f54a6894e87339d/server/out/vs/server/node/server.main.js:191:6373)
+    at process.emit (node:events:518:28)
+[01:35:11] [<unknown>][d4903f35][ExtensionHostConnection] <260387> Launched Extension Host Process.

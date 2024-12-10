@@ -1,0 +1,4 @@
+/home/ka9vt/miniconda3
+/home/ka9vt/miniconda3/envs/pytorch-tutorial
+/home/ka9vt/miniconda3/envs/link_prediction
+/home/ka9vt/miniconda3/envs/vicuna_env

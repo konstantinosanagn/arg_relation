@@ -1,0 +1,6 @@
+Listening on 127.0.0.1:41611
+[2024-07-05 08:58:37] info Disposed of connection to running server.
+looking for token bc912de3-388b-45f1-a1d2-5c34ca25045f, got Some("bc912de3-388b-45f1-a1d2-5c34ca25045f")
+[2024-07-05 08:58:37] info Checking /home/ka9vt/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/log.txt and /home/ka9vt/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/pid.txt for a running server...
+[2024-07-05 08:58:37] info Found running server (pid=2562291)
+[2024-07-05 10:16:20] info Disposed of connection to running server.

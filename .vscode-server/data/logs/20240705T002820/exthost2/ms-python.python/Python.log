@@ -1,0 +1,11 @@
+2024-07-05 00:28:24.561 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-05 00:28:24.561 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-05 00:28:24.561 [info] Experiment 'pythonSurveyNotification' is active
+2024-07-05 00:28:24.561 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-05 00:28:24.561 [info] Experiment 'pythonTestAdapter' is active
+2024-07-05 00:28:24.684 [info] Default formatter is set to null for workspace /home/ka9vt/Projects/link-prediction
+2024-07-05 00:28:25.025 [info] Python interpreter path: /bin/python3.11
+2024-07-05 00:28:25.198 [info] > pyenv which python
+2024-07-05 00:28:25.198 [info] cwd: .
+2024-07-05 00:28:26.887 [info] Shell integration status changed, can confirm it's working.
+2024-07-05 00:28:27.353 [info] Starting Pylance language server.

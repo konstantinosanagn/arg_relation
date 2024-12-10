@@ -1,0 +1,18 @@
+2024-06-26 01:35:48.849 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-06-26 01:35:49.264 [info] [Info  - 1:35:49 AM] (261937) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-06-26 01:35:49.264 [info] [Info  - 1:35:49 AM] (261937) Server root directory: file:///home/ka9vt/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-26 01:35:49.264 [info] [Info  - 1:35:49 AM] (261937) Starting service instance "link-prediction"
+2024-06-26 01:35:49.280 [info] Auto-Indent enabled
+2024-06-26 01:35:49.289 [info] Auto-Indent enabled
+2024-06-26 01:35:49.290 [info] [Info  - 1:35:49 AM] (261937) Setting pythonPath for service "link-prediction": "/bin/python3.11"
+2024-06-26 01:35:49.290 [info] [Info  - 1:35:49 AM] (261937) Setting environmentName for service "link-prediction": "3.11.5 (global)"
+2024-06-26 01:35:49.313 [info] [Info  - 1:35:49 AM] (261937) Assuming Python version 3.11.5.final.0
+2024-06-26 01:35:49.419 [info] [Info  - 1:35:49 AM] (261937) Found 22 source files
+2024-06-26 01:35:49.422 [info] Auto-Indent enabled
+2024-06-26 01:35:49.619 [info] [Info  - 1:35:49 AM] (261937) Background analysis(1) root directory: file:///home/ka9vt/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-26 01:35:49.621 [info] [Info  - 1:35:49 AM] (261937) Background analysis(1) started
+2024-06-26 01:35:49.783 [info] [Info  - 1:35:49 AM] (261937) Indexer background runner(2) root directory: file:///home/ka9vt/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-06-26 01:35:49.783 [info] [Info  - 1:35:49 AM] (261937) Indexing(2) started
+2024-06-26 01:35:50.128 [info] [Info  - 1:35:50 AM] (261937) scanned(2) 11 files over 1 exec env
+2024-06-26 01:35:50.317 [info] [Info  - 1:35:50 AM] (261937) indexed(2) 2 files over 1 exec env
+2024-06-26 01:35:50.317 [info] [Info  - 1:35:50 AM] (261937) Indexing finished(2).

@@ -1,0 +1,55 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-532d85ed-c7ca-4e3b-980f-e261a10efce4
+Extension host agent listening on /tmp/code-532d85ed-c7ca-4e3b-980f-e261a10efce4
+
+[09:57:08] 
+
+
+
+
+[09:57:08] Extension host agent started.
+[09:57:09] [<unknown>][faa96fe3][ExtensionHostConnection] New connection established.
+[09:57:09] [<unknown>][8f0c1e81][ExtensionHostConnection] New connection established.
+[09:57:09] [<unknown>][52f76662][ManagementConnection] New connection established.
+[09:57:09] [<unknown>][358478e1][ManagementConnection] New connection established.
+[09:57:09] [<unknown>][faa96fe3][ExtensionHostConnection] <1137432> Launched Extension Host Process.
+[09:57:09] [<unknown>][8f0c1e81][ExtensionHostConnection] <1137433> Launched Extension Host Process.
+[09:57:09] Deleted uninstalled extension from disk ms-python.python /home/ka9vt/.vscode-server/extensions/ms-python.python-2024.8.0
+[09:57:11] [<unknown>][0569783f][ManagementConnection] New connection established.
+[09:57:11] [<unknown>][0c0cc292][ExtensionHostConnection] New connection established.
+[09:57:11] [<unknown>][0c0cc292][ExtensionHostConnection] <1137644> Launched Extension Host Process.
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:55:30556)
+    at A.updateIcon (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:55:25806)
+    at R.D.<computed> (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:55:21031)
+    at Object.call (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:36:5367)
+    at a.s (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:34:5482)
+    at a.q (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4923)
+    at m.value (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4223)
+    at r.y (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:29:668)
+    at r.fire (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:29:885)
+    at process.$e (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11142)
+    at process.emit (node:events:518:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[09:57:16] Error [CodeExpectedError]: Could not find pty on pty host
+    at A.U (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:55:30556)
+    at A.updateIcon (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:55:25806)
+    at R.D.<computed> (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:55:21031)
+    at Object.call (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:36:5367)
+    at a.s (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:34:5482)
+    at a.q (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4923)
+    at m.value (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:34:4223)
+    at r.y (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:29:668)
+    at r.fire (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:29:885)
+    at process.$e (/home/ka9vt/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11142)
+    at process.emit (node:events:518:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)

@@ -1,0 +1,29 @@
+2024-06-26 02:33:41.728 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-06-26 02:33:41.728 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-06-26 02:33:41.728 [info] Experiment 'pythonSurveyNotification' is active
+2024-06-26 02:33:41.728 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-06-26 02:33:41.728 [info] Experiment 'pythonTestAdapter' is active
+2024-06-26 02:33:41.728 [info] Default formatter is set to null for workspace /home/ka9vt/Projects
+2024-06-26 02:33:41.728 [info] Python interpreter path: /bin/python3.11
+2024-06-26 02:33:42.202 [info] > pyenv which python
+2024-06-26 02:33:42.202 [info] cwd: .
+2024-06-26 02:33:43.775 [info] Starting Pylance language server.
+2024-06-26 02:34:09.868 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 02:34:13.698 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 02:34:14.122 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 02:44:28.990 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 02:44:30.478 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 03:12:53.373 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 03:27:52.509 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 03:27:52.964 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 03:27:55.234 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 03:29:00.909 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 03:29:05.194 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 03:29:08.758 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 03:29:11.195 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 03:29:13.255 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 03:40:15.901 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 03:40:33.558 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 03:40:38.438 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 03:40:39.607 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py
+2024-06-26 03:44:24.634 [info] Discover tests for workspace name: Projects - uri: /home/ka9vt/Projects/newsqa.py

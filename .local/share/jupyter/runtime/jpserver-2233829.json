@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 2233829,
+  "port": 10051,
+  "root_dir": "/home/ka9vt/Projects/link-prediction",
+  "secure": false,
+  "sock": "",
+  "token": "a49aa543da3db756a87c20e6ffb8ee60f80efa9497345154",
+  "url": "http://localhost:10051/",
+  "version": "1.23.4"
+}

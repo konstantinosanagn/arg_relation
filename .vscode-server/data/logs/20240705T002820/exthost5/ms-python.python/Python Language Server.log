@@ -1,0 +1,19 @@
+2024-07-05 01:28:38.989 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-07-05 01:28:39.344 [info] [Info  - 1:28:39 AM] (2511013) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-07-05 01:28:39.344 [info] [Info  - 1:28:39 AM] (2511013) Server root directory: file:///home/ka9vt/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-05 01:28:39.347 [info] [Info  - 1:28:39 AM] (2511013) Starting service instance "Projects"
+2024-07-05 01:28:39.371 [info] Auto-Indent enabled
+2024-07-05 01:28:39.381 [info] Auto-Indent enabled
+2024-07-05 01:28:39.382 [info] [Info  - 1:28:39 AM] (2511013) Setting pythonPath for service "Projects": "/bin/python3.11"
+2024-07-05 01:28:39.382 [info] [Info  - 1:28:39 AM] (2511013) Setting environmentName for service "Projects": "3.11.5 (global)"
+2024-07-05 01:28:39.406 [info] [Info  - 1:28:39 AM] (2511013) Assuming Python version 3.11.5.final.0
+2024-07-05 01:28:39.482 [info] [Info  - 1:28:39 AM] (2511013) Found 162 source files
+2024-07-05 01:28:39.485 [info] Auto-Indent enabled
+2024-07-05 01:28:39.726 [info] [Info  - 1:28:39 AM] (2511013) Background analysis(1) root directory: file:///home/ka9vt/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-05 01:28:39.727 [info] [Info  - 1:28:39 AM] (2511013) Background analysis(1) started
+2024-07-05 01:28:39.841 [info] [Info  - 1:28:39 AM] (2511013) Indexer background runner(2) root directory: file:///home/ka9vt/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-07-05 01:28:39.842 [info] [Info  - 1:28:39 AM] (2511013) Indexing(2) started
+2024-07-05 01:28:40.100 [info] [Info  - 1:28:40 AM] (2511013) scanned(2) 11 files over 1 exec env
+2024-07-05 01:28:40.332 [info] [Info  - 1:28:40 AM] (2511013) indexed(2) 2 files over 1 exec env
+2024-07-05 01:28:40.344 [info] [Info  - 1:28:40 AM] (2511013) Indexing finished(2).
+2024-07-05 01:28:53.563 [info] [Info  - 1:28:53 AM] (2511013) Found 163 source files

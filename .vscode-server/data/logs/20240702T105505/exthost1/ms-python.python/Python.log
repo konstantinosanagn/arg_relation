@@ -1,0 +1,28 @@
+2024-07-02 10:55:08.765 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-02 10:55:08.765 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-02 10:55:08.765 [info] Experiment 'pythonSurveyNotification' is active
+2024-07-02 10:55:08.765 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-02 10:55:08.765 [info] Experiment 'pythonTestAdapter' is active
+2024-07-02 10:55:08.765 [info] Default formatter is set to null for workspace /home/ka9vt/Projects/link-prediction
+2024-07-02 10:55:08.765 [info] Python interpreter path: /bin/python3.11
+2024-07-02 10:55:08.823 [info] > pyenv which python
+2024-07-02 10:55:08.823 [info] cwd: .
+2024-07-02 10:55:10.476 [info] Starting Pylance language server.
+2024-07-02 11:12:02.273 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:12:02.950 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:17:37.923 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:17:38.944 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:17:52.179 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:24:26.963 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:24:42.440 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:37:15.954 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:37:29.496 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:38:37.435 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:51:11.905 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:51:14.824 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:52:06.646 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:52:09.721 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:52:15.495 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:52:33.615 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:52:35.686 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
+2024-07-02 11:52:40.016 [info] Discover tests for workspace name: link-prediction - uri: /home/ka9vt/Projects/link-prediction/link_pred_mistral.py
